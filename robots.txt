@@ -8,5 +8,6 @@ Allow: /
 Sitemap: https://www.binianadeiad.com/sitemap.xml
 
 # Block sensitive areas
-Disallow: /dashboard
+Disallow: /equipe.html
 Disallow: /candidate-portal
+Disallow: /dashboard
